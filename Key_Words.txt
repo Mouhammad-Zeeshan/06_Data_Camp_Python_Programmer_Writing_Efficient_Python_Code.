@@ -1,0 +1,34 @@
+06 - Writing Efficient Code:
+Key_Words:
+
+Chapter:01.
+1. Efficient code should be run fast.
+2. Efficient code should consume less memory.
+3. try to use list comprehension instead of loops.
+4. USe * to print itterative object into list directly.
+5. efficient use of enumerate function.
+6. efficient use of map function. 
+7. Numpy Homogeneous.
+
+Chapter:02.
+1. Runtime Code.
+2.line profiler
+3.Code Profiling for Memory storage.
+
+Chapter:03.
+1. Zip
+2. namedtuple
+3. deque
+4. Counter
+5. OrderDict
+6. defaultdict
+7. combinations
+8. in
+9. holistic conversion
+10. map function
+ 
+ Chapter:04.
+1. iterrows in pandas
+2. itertuples() in pandas
+3. .apply() in pandas
+4. DataFrame["Column_name].values
